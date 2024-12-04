@@ -11,7 +11,6 @@ This Java program simulates an employee registration system using a probabilisti
 - [Example Operations](#example-operations)
 - [Algorithm Complexity](#algorithm-complexity) 
 - [Contributing](#contributing)
-- [License](#license)
 - [Author](#author)
 
 ## Features
