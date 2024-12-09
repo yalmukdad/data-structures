@@ -13,7 +13,6 @@ This assignment explores non-comparative sorting techniques, which are particula
 
 * `NonComparativeSort.java`: Contains the Java implementation of the `NonComparativeSort` class with `countingSort` and `radixSort` methods.
 * `M07A14.java`: A test file that generates random product price data and measures the execution time of both sorting algorithms.
-* `ICS123-M07A14.docx`: The original assignment instructions (provided by you).
 * `README.md`: This file.
 
 ## How to Run
