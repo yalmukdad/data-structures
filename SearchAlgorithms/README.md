@@ -6,7 +6,6 @@ This project compares the performance of different search algorithms (Linear, Bi
 
 * **SearchAlgorithms.java:** Contains the implementation of the search algorithms (Linear Search, Binary Search, and Recursive Binary Search).
 * **M08A15.java:**  (You'll need to provide this) The main driver class that generates data, performs searches, measures execution times, and outputs the results.
-* **ICS123-M08A15.docx:** (You'll need to provide this) The assignment document with instructions and questions.
 * **README.md:**  This file, providing a description of the project.
 
 ## Algorithms Implemented
